@@ -5,7 +5,7 @@ Werkzeug==2.2.3
 apns==1.1.2
 http-parser==0.7.8
 nose==1.2.1
-paramiko==1.7.7.2
+paramiko==2.0.9
 passlib==1.6.1
 py-bcrypt==0.3
 pycrypto==2.6
