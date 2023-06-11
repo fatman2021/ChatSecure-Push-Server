@@ -11,7 +11,7 @@ py-bcrypt==0.3
 pycrypto==2.6
 pymongo==2.5.2
 python-dateutil==2.1
-requests==2.20.0
+requests==2.31.0
 restkit==4.2.0
 six==1.2.0
 socketpool==0.5.2
