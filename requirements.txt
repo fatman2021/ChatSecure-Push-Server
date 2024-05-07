@@ -1,5 +1,5 @@
 Flask==2.3.2
-Jinja2==3.1.3
+Jinja2==3.1.4
 WebOb==1.2.2
 Werkzeug==3.0.3
 apns==1.1.2
